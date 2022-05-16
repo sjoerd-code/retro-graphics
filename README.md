@@ -3,7 +3,7 @@ This is an example of how i made PS1 styled graphics in raylib-cs
 
 ## How to compile:
 
-First you need to install the .NET 6 SDK
+First you need to install dotnet: https://dotnet.microsoft.com/en-us/download
 
 To get the dependencies use:
 ``
